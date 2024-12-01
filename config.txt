@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx83f2364ffffa56c5",
+# 公众号appSecret
+"app_secret": "a2153d19b1dc0b10fe0b189ff3e7fa74",
+# 模板消息id
+"template_id": "HOfAGEQoNKFmosCJKm4UyXLJNKH4_CH7xTM5d6-h31I",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ovXTS6c26OLT2KYIA_u8pVDYZxPA","ovXTS6T9zpTluARs2TF8Q8wLd9GA"],
+ 
+# 信息配置
+"weather_key": "18318f6f179c42dfa02927fd1296fd71",
+
+# 所在地区
+"region": "南昌市",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "蔡蔡小朋友", "birthday": "2007-09-28"},
+"birthday2": {"name": "陈烨小朋友", "birthday": "2001-02-18"},
+
+# 在一起的日子
+"love_date": "2023-03-24",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "乍见心欢，小别思念，久处仍怦然",
+# 金句英文
+"note_en": "I LOVE YOU"
+}
